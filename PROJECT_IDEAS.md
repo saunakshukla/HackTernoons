@@ -12,3 +12,5 @@
     - record and play back your dreams
 - mind-controlled go-kart (Sayan)
 - mind-controlled smash (Sayan)
+-In conjunction with accessibility devices (Saunak)
+-Virtual Reality rendering of real estate (Saunak)
